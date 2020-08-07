@@ -4,10 +4,10 @@ function fish() {
       $("#footer-wrap").css({
         position: "absolute",
         "text-align": "center",
-        top: 5,
+        top: 0,
         right: 0,
         left: 0,
-        bottom: 10,
+        bottom: -5,
       }),
       $("footer").append(
         '<div class="container" id="jsi-flying-fish-container"></div>'
