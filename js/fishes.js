@@ -7,7 +7,7 @@ function fish() {
         top: 5,
         right: 0,
         left: 0,
-        bottom: 0,
+        bottom: 10,
       }),
       $("footer").append(
         '<div class="container" id="jsi-flying-fish-container"></div>'
